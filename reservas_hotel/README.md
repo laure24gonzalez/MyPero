@@ -1,6 +1,6 @@
 # Reservas de Hotel - Sistema de Precios
 
-Un proyecto para hacer reservas de hotel usando tres patrones de OOP: herencia, singleton y strategy. Basicamente es lo que nos pidieron para la tarea.
+Un proyecto para hacer reservas de hotel usando tres patrones de OOP: herencia, singleton y strategy.
 
 ## Estructura del proyecto
 
